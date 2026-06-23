@@ -91,8 +91,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#ffeeeb",
-      secondary: "#f6cfff",
+      primary: "#635658",
+      secondary: "#ffedf0",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
@@ -106,11 +106,11 @@ export const botConfig = {
       gray: "#99AAB5",
 
       // Discord-style palette shortcuts.
-      blurple: "#5865F2",
-      green: "#57F287",
-      yellow: "#FEE75C",
-      fuchsia: "#EB459E",
-      red: "#ED4245",
+      blurple: "#adb4ff",
+      green: "#a3ffc0",
+      yellow: "#ffee87",
+      fuchsia: "#ffa6d6",
+      red: "#cf383a",
       black: "#000000",
 
       // Feature-specific colors.
