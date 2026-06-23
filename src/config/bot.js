@@ -364,7 +364,7 @@ export const botConfig = {
     defaultWelcomeMessage:
       "Welcome {user} to {server}! Enjoy your stay~",
     // Goodbye template posted when a user leaves.
-    // Placeholders: {user}, {memberCount}
+    // Placeholders: {timestamp}
     defaultGoodbyeMessage:
       "{user} has left the server..",
     // Channel ID for welcome messages.
